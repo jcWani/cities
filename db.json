@@ -1,50 +1,52 @@
-[
-  {
-    "cityName": "San Miguel",
-    "country": "Philippines (the)",
-    "emoji": "🇵🇭",
-    "date": "2024-03-09T13:06:28.026Z",
-    "notes": "Hometown",
-    "position": {
-      "lat": "15.142392507491829",
-      "lng": "120.98007202148439"
+{
+  "cities": [
+    {
+      "cityName": "San Miguel",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-03-09T13:06:28.026Z",
+      "notes": "Hometown",
+      "position": {
+        "lat": "15.142392507491829",
+        "lng": "120.98007202148439"
+      },
+      "id": 98443199
     },
-    "id": 98443199
-  },
-  {
-    "cityName": "Manila",
-    "country": "Philippines (the)",
-    "emoji": "🇵🇭",
-    "date": "1999-12-03T13:07:44.000Z",
-    "notes": "Capital of the Philippines",
-    "position": {
-      "lat": "14.589564078410712",
-      "lng": "120.97835540771486"
+    {
+      "cityName": "Manila",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "1999-12-03T13:07:44.000Z",
+      "notes": "Capital of the Philippines",
+      "position": {
+        "lat": "14.589564078410712",
+        "lng": "120.97835540771486"
+      },
+      "id": 98443200
     },
-    "id": 98443200
-  },
-  {
-    "cityName": "Laoag",
-    "country": "Philippines (the)",
-    "emoji": "🇵🇭",
-    "date": "1999-12-03T13:09:47.000Z",
-    "notes": "Hometown of grandmother",
-    "position": {
-      "lat": "18.196086771684808",
-      "lng": "120.59349060058595"
+    {
+      "cityName": "Laoag",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "1999-12-03T13:09:47.000Z",
+      "notes": "Hometown of grandmother",
+      "position": {
+        "lat": "18.196086771684808",
+        "lng": "120.59349060058595"
+      },
+      "id": 98443201
     },
-    "id": 98443201
-  },
-  {
-    "cityName": "Kaohsiung",
-    "country": "Taiwan (Province of China)",
-    "emoji": "🇹🇼",
-    "date": "1995-03-12T13:10:32.000Z",
-    "notes": "Mother worked here",
-    "position": {
-      "lat": "23.274150156028508",
-      "lng": "120.84960937500001"
-    },
-    "id": 98443202
-  }
-]
+    {
+      "cityName": "Kaohsiung",
+      "country": "Taiwan (Province of China)",
+      "emoji": "🇹🇼",
+      "date": "1995-03-12T13:10:32.000Z",
+      "notes": "Mother worked here",
+      "position": {
+        "lat": "23.274150156028508",
+        "lng": "120.84960937500001"
+      },
+      "id": 98443202
+    }
+  ]
+}
